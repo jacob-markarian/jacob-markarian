@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Jacob Markarian
 
 Psychology researcher interested in aging, dementia, caregiving, family decision-making, and emotional resilience.
@@ -18,9 +15,8 @@ Psychology researcher interested in aging, dementia, caregiving, family decision
 - SPSS
 - Qualtrics
 - Multivariate analysis
-- Structural Equation Modeling (SEM) 
+- Structural equation modeling
 
 ## Links
 
-- [Bluesky] https://bsky.app/profile/jacobmarkarian.bsky.social
--->
+- [Bluesky](https://bsky.app/profile/jacobmarkarian.bsky.social)
