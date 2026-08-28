@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**jacob-markarian/jacob-markarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jacob Markarian
 
-Here are some ideas to get you started:
+Psychology researcher interested in aging, dementia, caregiving, family decision-making, and emotional resilience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Research interests
+
+- Dementia and cognitive resilience
+- Caregiving and family relationships
+- Grief, loneliness, and emotional well-being
+- Aging-related decisions and social connectedness
+
+## Research methods
+
+- R
+- SPSS
+- Qualtrics
+- Multivariate analysis
+- Structural Equation Modeling (SEM) 
+
+## Links
+
+- [Bluesky] https://bsky.app/profile/jacobmarkarian.bsky.social
 -->
