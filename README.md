@@ -18,7 +18,8 @@ Psychology researcher interested in aging, dementia, caregiving, family decision
 - Structural equation modeling
 
 ## Links
-
-- [Bluesky](https://bsky.app/profile/jacobmarkarian.com)
-- Personal Site (https://jacobmarkarian.com/)
   
+- [Bluesky](https://bsky.app/profile/jacobmarkarian.bsky.social)
+- [Personal Site](https://jacobmarkarian.com)
+- [LinkedIn](https://www.linkedin.com/in/jacob-markarian/)
+- 
