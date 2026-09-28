@@ -20,3 +20,5 @@ Psychology researcher interested in aging, dementia, caregiving, family decision
 ## Links
 
 - [Bluesky](https://bsky.app/profile/jacobmarkarian.com)
+- [Personal Site] (https://jacobmarkarian.com/)
+  
